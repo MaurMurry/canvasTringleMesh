@@ -64,7 +64,7 @@ createParticles(){
 }
 ```
 
-<p>The method was used for initial setup using particle imaging.</p>
+<p>The method was used for initial setup using particle display.</p>
 
 ```
 renderParticles(ctx){
@@ -81,7 +81,7 @@ createTraingles(){
 }
 ```
 
-<p>The method traverses all coordinates of the triangles (taken from <b> this.triangles </b>) drawing on canvas, picking a different color for each through <b> hue </b> and drawing on canvas.</p>
+<p>The method traverses all coordinates of the triangles (taken from <b> this.triangles </b>), picking a different color for each through <b> hue </b> and drawing on canvas.</p>
 
 ```
 renderTraingles(ctx){
@@ -119,7 +119,6 @@ updateTraingles(correction=0){
 
 </p>
 <h3>Technologies</h3>
-<p>- CSS</p>
 <p>- JavaScript</p>
 <h2>Project settings</h2>
 <p>
