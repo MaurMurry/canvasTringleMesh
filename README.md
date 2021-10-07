@@ -1,4 +1,4 @@
-<h1 align="center">Web Project</h1>
+<h1 align="center">Tringle Mesh</h1>
 
 <img align="center" src="./IMG/intro.PNG" width="100%">
 
