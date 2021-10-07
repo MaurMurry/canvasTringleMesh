@@ -1,6 +1,6 @@
 <h1 align="center">Tringle Mesh on JS Canvas</h1>
 
-<img align="center" src="./IMG/intro.PNG" width="100%">
+<img align="center" src="./IMG/intro.png" width="100%">
 
 <h2>Description</h2>
 <p>The project was created to create animation on canvas based on basic mathematics.
