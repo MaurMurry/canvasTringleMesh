@@ -1,4 +1,4 @@
-<h1 align="center">Tringle Mesh</h1>
+<h1 align="center">Tringle Mesh on JS Canvas</h1>
 
 <img align="center" src="./IMG/intro.PNG" width="100%">
 
@@ -115,9 +115,8 @@ updateTraingles(correction=0){
 ```
 
 <h3>Target</h3>
-<p>
+<p>Practice of working with canvas using materials taken from the public internet. <be> Using modular assembly in vanilla JS.</p>
 
-</p>
 <h3>Technologies</h3>
 <p>- JavaScript</p>
 <h2>Project settings</h2>
